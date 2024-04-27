@@ -1,0 +1,4 @@
+name: JoinCounter
+version: '${project.version}'
+main: ch.ksrminecraft.joincounter.JoinCounter
+api-version: '1.20'
